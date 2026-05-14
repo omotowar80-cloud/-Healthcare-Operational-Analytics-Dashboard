@@ -10,7 +10,7 @@ Pivot Tables & Statistical Charts: Leveraged to isolate temporal trends, peak ar
 Power BI: Utilized to develop an interactive dashboard for ongoing monitoring, highlighting a 13.33% overall no-show rate.  
 
 Key Findings
-The analysis of the clinical dataset and associated visualizations in Screenshot 2026-05-02 141519.png, Screenshot 2026-05-02 141207.png, and Screenshot 2026-05-02 140928.png revealed several critical insights:  
+The analysis of the clinical dataset and associated visualizations in Depatment and Appointment Breakdown, Screenshot 2026-05-02 141207.png, and Screenshot 2026-05-02 140928.png revealed several critical insights:  
 
 Peak Demand: Patient arrivals consistently spike at 9:00 AM, 1:00 PM, and 5:00 PM.  
 
